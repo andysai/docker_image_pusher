@@ -1,2 +1,6 @@
 centos
 nginx
+ubuntu
+joedval/stress
+adoptopenjdk/openjdk8
+openjdk:8-jdk-alpine
