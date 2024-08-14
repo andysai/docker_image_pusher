@@ -1,1 +1,1 @@
-buzhiyun/kafka-eagle:latest
+buzhiyun/kafka-eagle:1.4.6
