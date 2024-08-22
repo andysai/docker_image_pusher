@@ -1,9 +1,1 @@
-registry.cn-qingdao.aliyuncs.com/metersphere/gateway:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/node-controller:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/performance-test:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/project-management:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/report-stat:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/system-setting:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/test-track:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/ui-test:v2.10.11-lts
-registry.cn-qingdao.aliyuncs.com/metersphere/workstation:v2.10.11-lts
+busybox:latest
