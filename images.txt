@@ -1,1 +1,3 @@
-sonatype/nexus3
+docker.io/bitnami/kubectl:1.28.2-debian-11-r16
+registry.cn-qingdao.aliyuncs.com/metersphere/api-test:v2.10.11-lts
+registry.cn-qingdao.aliyuncs.com/metersphere/data-streaming:v2.10.11-lts
