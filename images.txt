@@ -1,1 +1,1 @@
-buzhiyun/kafka-eagle:latest
+neosmemo/memos:stable
