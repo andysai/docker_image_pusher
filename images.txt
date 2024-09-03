@@ -1,1 +1,2 @@
-apache/rocketmq:4.9.7
+gitlab/gitlab-ce:13.12.15-ce.0
+sonatype/nexus3
