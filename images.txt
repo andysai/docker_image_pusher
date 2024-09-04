@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:13.12.15-ce.0
-sonatype/nexus3
+sonatype/nexus3:3.70.2
