@@ -1,1 +1,1 @@
-wechaty/wechaty
+node:20-alpine
