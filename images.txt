@@ -1,1 +1,2 @@
-centos:latest
+centos:7
+centos:8
