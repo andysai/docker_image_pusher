@@ -1,1 +1,1 @@
-alpine:latest
+infiniflow/ragflow:v0.14.1
