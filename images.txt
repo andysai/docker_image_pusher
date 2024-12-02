@@ -1,1 +1,1 @@
-edwardelric233/ragflow:oc9
+ubuntu:22.04
