@@ -1,1 +1,1 @@
-ubuntu:22.04
+docker.io/library/base:latest
