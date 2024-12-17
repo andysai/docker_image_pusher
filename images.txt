@@ -1,1 +1,1 @@
-docker.io/library/base:latest
+infiniflow/ragflow_deps:latest
