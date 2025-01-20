@@ -1,2 +1,1 @@
-docker.io/bitnami/sonarqube:10.7.0-debian-12-r1
-docker.io/bitnami/os-shell:12-debian-12-r32
+aibotk/wechat-assistant:V5.0.20
