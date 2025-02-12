@@ -1,1 +1,1 @@
-aibotk/wechat-assistant:v5.0.20
+aibotk/wechat-assistant:v5.0.26
