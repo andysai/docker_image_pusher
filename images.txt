@@ -1,1 +1,1 @@
-rabbitmq:v3.13.7
+rabbitmq:3.13.7
