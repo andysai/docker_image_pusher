@@ -1,3 +1,1 @@
-elastic/elasticsearch:8.5.1
-elastic/kibana:8.5.1
-elastic/filebeat:8.5.1
+centos:8.4
