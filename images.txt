@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.17.2-slim
+eosphorosai/dbgpt:v0.6.0
