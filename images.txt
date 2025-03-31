@@ -1,1 +1,2 @@
-eosphorosai/dbgpt:v0.6.0
+supersonicbi/supersonic:1.0.0-SNAPSHOT
+pgvector/pgvector:pg17
