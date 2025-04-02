@@ -1,1 +1,2 @@
-elastic/kibana:8.11.3
+mysql:8.0.36
+mysql:8.0.39
