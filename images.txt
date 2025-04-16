@@ -1,2 +1,1 @@
-rancher/mirrored-library-nginx:1.24.0-alpine
-rancher/mirrored-grafana-grafana:9.1.5
+rancher/mirrored-prometheus-alertmanager:v0.24.0
