@@ -1,1 +1,1 @@
-rancher/mirrored-banzaicloud-fluentd:v1.14.6-alpine-5
+rancher/shell:v0.1.25
