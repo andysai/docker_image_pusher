@@ -1,1 +1,1 @@
-rancher/mirrored-banzaicloud-logging-operator:3.17.10
+rancher/mirrored-banzaicloud-fluentd:v1.14.6-alpine-5
