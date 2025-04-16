@@ -1,1 +1,1 @@
-docker.io/bitnami/redis:6.2.7-debian-11-r11
+rancher/mirrored-banzaicloud-logging-operator:3.17.10
