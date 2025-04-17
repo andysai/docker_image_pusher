@@ -1,1 +1,1 @@
-rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.3.0
+rancher/mirrored-thanos-thanosv0.28.0
