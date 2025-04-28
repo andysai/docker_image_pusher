@@ -1,1 +1,1 @@
-rancher/mirrored-thanos-thanos:v0.28.0
+docker.io/calico/kube-controllers:v3.18.0
