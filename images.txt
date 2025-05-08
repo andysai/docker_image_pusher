@@ -1,3 +1,2 @@
-selenium/node-chrome:4.24.0-20240830
-selenium/node-firefox:4.24.0-20240830
-selenium/hub:4.24.0-20240830
+docker.io/bonree/smartagent:1.0
+docker.io/bonree/smartgate:2.6.0
