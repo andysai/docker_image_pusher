@@ -1,2 +1,1 @@
-docker.io/bonree/smartagent:1.0
-docker.io/bonree/smartgate:2.6.0
+ragflow:v0.19.0-slim
