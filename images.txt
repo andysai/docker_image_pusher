@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.19.0-slim
+mindsdb/mindsdb:v25.5.4.2-devel
+mindsdb/mindsdb:v25.5.4.2-cloud
