@@ -1,1 +1,1 @@
-tukirito/sygil-webui:latest
+xprobe/xinference:nightly-main-cpu
