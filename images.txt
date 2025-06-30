@@ -1,1 +1,2 @@
-xprobe/xinference:nightly-main-cpu
+xprobe/xinference:v0.14.4
+curlimages/curl:8.8.0
