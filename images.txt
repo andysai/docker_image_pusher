@@ -1,2 +1,2 @@
-higress-registry.ap-southeast-7.cr.aliyuncs.com/higress/all-in-one:latest
-higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/redis-stack-server:7.4.0-v3
+xprobe/xinference:v1.6.0
+curlimages/curl:8.8.0
