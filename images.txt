@@ -1,2 +1,2 @@
-xprobe/xinference:v1.6.0
-curlimages/curl:8.8.0
+risingwavelabs/risingwave:nightly
+
