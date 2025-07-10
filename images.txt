@@ -1,1 +1,1 @@
-docker.risingwave.com/risingwavelabs/risingwave:v2.3.2
+docker.io/bitnami/etcd：3.5.12-debian-12-r10
