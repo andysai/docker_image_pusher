@@ -1,2 +1,2 @@
-docker.io/library/nginx:alpine
-docker.io/library/node:18-alpine
+public.ecr.aws/supabase/postgres:17.4.1.055
+public.ecr.aws/supabase/realtime:v2.40.5
