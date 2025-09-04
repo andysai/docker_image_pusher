@@ -1,2 +1,1 @@
-postgrest/postgrest:v12.2.0
-supabase/postgres-meta:v0.84.2
+aceberg/watchyourports
