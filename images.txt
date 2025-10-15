@@ -1,1 +1,1 @@
-lctmr-app:latest
+ubuntu:22.04
