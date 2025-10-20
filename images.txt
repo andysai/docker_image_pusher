@@ -1,1 +1,2 @@
-ubuntu:22.04
+budtmo/docker-android:emulator_11.0
+appium/appium:v3.1.0-p0
