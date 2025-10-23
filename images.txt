@@ -1,4 +1,1 @@
-budtmo/docker-android:emulator_10.0
-budtmo/docker-android:emulator_14.0
-budtmo/docker-android:emulator_13.0
-budtmo/docker-android:emulator_12.0
+budtmo/docker-android:emulator_9.0
