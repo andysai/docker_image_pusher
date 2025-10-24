@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_9.0
+docker pull appium/appium:v2.16.2-p0
