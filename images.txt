@@ -1,1 +1,2 @@
-appium/appium:v2.16.2-p0
+postgres:15-alpine
+redmine:5.1-alpine
