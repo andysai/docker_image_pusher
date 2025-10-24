@@ -1,1 +1,1 @@
-docker pull appium/appium:v2.16.2-p0
+appium/appium:v2.16.2-p0
