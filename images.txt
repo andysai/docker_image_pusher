@@ -1,1 +1,1 @@
-nacos/nacos-server:v1.4.6
+node:16-alpine
