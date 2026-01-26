@@ -1,2 +1,2 @@
-docker.io/bitnamilegacy/postgresql:11.14.0
-sonarqube:25.12.0.117093-community
+appium/appium:v3.1.1-p0
+appium/appium:v2.19.0-p4
