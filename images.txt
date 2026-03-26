@@ -1,1 +1,1 @@
-netdata/netdata:edge-0
+louislam/uptime-kuma:nightly2
