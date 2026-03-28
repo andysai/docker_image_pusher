@@ -1,4 +1,4 @@
-kibana:9.3.2
-kibana:8.19.13
-kibana:9.2.6
-kibana:8.18.8
+elasticsearch:8.15.2
+elasticsearch:8.16.1
+kibana:8.15.2
+kibana:8.16.1
