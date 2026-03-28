@@ -1,3 +1,9 @@
-adamboutcher/statping-ng:v0.90.78
-monitoror/monitoror:4
-checkmk/check-mk-raw:2.4.0-2026.03.26
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+minio/minio:RELEASE.2025-09-07T16-13-09Z-cpuv1
+minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
+minio/minio:RELEASE.2025-07-23T15-54-02Z
+minio/minio:RELEASE.2025-07-18T21-56-31Z-cpuv1
+minio/minio:RELEASE.2025-07-18T21-56-31Z
+minio/minio:RELEASE.2024-12-18T13-15-44Z-cpuv1
+minio/minio:RELEASE.2024-12-18T13-15-44Z
+minio/minio:RELEASE.2024-12-18T13-15-44Z
