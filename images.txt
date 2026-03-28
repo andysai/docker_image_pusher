@@ -1,4 +1,3 @@
-prom/prometheus:v3-distroless
-prom/prometheus:v3
-prom/prometheus:v3.10.0-distroless
+httpd:2.4.66
+httpd:2.4
 
