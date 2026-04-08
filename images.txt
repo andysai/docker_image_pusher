@@ -1,1 +1,8 @@
-zabbix/zabbix-server-pgsql:trunk-ubuntu
+zabbix/zabbix-server-mysql:7.4-alpine-latest
+zabbix/zabbix-server-mysql:7.4-centos-latest
+zabbix/zabbix-web-nginx-mysql:7.4-alpine-latest
+zabbix/zabbix-web-nginx-mysql:7.4-centos-latest
+zabbix/zabbix-web-nginx-pgsql:7.4-alpine-latest
+zabbix/zabbix-web-nginx-mysql:7.4-alpine-latest
+zabbix/zabbix-agent2:7.4-alpine-latest
+zabbix/zabbix-agent2:7.4-centos-latest
