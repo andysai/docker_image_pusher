@@ -1,4 +1,4 @@
-zabbix/zabbix-server-pgsql:7.4-centos-latest
-zabbix/zabbix-server-pgsql:7.4-alpine-latest
+nacos/nacos-server:v2.5.0
+
 
 
