@@ -1,4 +1,6 @@
-nacos/nacos-server:v2.5.0
-
+jenkins/jenkins:2.555.1-jdk21
+jenkins/jenkins:2.555.1-lts
+jenkins/jenkins:2.555.1-lts-jdk21
+jenkins/jenkins:2.555.1-lts-jdk25
 
 
