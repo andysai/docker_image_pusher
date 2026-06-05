@@ -1,6 +1,1 @@
-jenkins/jenkins:2.555.1-jdk21
-jenkins/jenkins:2.555.1-lts
-jenkins/jenkins:2.555.1-lts-jdk21
-jenkins/jenkins:2.555.1-lts-jdk25
-
-
+zabbix/zabbix-agent2:6.4-alpine
