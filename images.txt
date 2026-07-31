@@ -1,1 +1,1 @@
-quay.io/k8scsi/snapshot-controller:v3.0.2
+jenkins/jenkins:2.575
