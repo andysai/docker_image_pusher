@@ -1,1 +1,1 @@
-jenkins/jenkins:2.575-jdk21
+eclipse-temurin:21-jre
