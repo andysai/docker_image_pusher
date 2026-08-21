@@ -1,1 +1,1 @@
-alpine/java:21-jdk
+mysql:8.4.11
