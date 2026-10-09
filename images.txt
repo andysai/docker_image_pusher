@@ -1,1 +1,1 @@
-quay.io/minio/minio:RELEASE.2023-12-23T07-19-11Z-cpuv1
+nvidia/cuda:13.4.2-tensorrt-devel-ubuntu24.04
